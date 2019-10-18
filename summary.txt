@@ -1,0 +1,8 @@
+Time taken to solve the first part : 2 hours
+Extension to complete the second part: 1 hour
+Total time taken: 3 hours.
+
+
+Make use of Enumeration and Abstraction for the implementation for different Operator. The current design allow expansion of other mathematic operator to be easily implemented.
+
+The current implementation does not cater for formula with combination of "* or /" operator and "+ or -" operator, eg. (12 + 4 * 5 - 6 ). However, it won't be difficult to be implemented as the similar approach of handling formula with "( )" and be applied. 
